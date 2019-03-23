@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="resource_type">
+        <item>string</item>
+        <item>bool</item>
+        <item>dimen</item>
+        <item>array</item>
+        <item>integer</item>
+        <item>drawable</item>
+        <item>mipmap</item>
+        <item>color</item>
+    </array>
+</resources>
