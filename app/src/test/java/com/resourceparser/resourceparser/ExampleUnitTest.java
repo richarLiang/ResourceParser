@@ -1,4 +1,4 @@
-package com.tct.resourceparse;
+package com.resourceparser.resourceparser;
 
 import org.junit.Test;
 
